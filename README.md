@@ -16,7 +16,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://images.hdqwalls.com/wallpapers/python-logo-4k-i6.jpg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
