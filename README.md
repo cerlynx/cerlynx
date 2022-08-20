@@ -33,7 +33,7 @@
     </td>
     <td align="center" width="96">
       <a href="#fahixa-tech" >
-        <img src="https://www.pngitem.com/pimgs/m/168-1680234_nodejs-logo-svg-hd-png-download.png" width="48" height="48" alt="NodeJS" />
+        <img src="https://www.ruhidesain.com/wp-content/uploads/2017/10/nodejs-logo-e1497443346889.png" width="48" height="48" alt="NodeJS" />
       </a>
       <br>NodeJS
     </td>
@@ -54,12 +54,6 @@
         <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/ac443c139b1c5adef5f1a6f79bf8550f075b0c64/img/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
-    <td align="center" width="96">
-      <a href="#fahixa-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="48" height="48" alt="Kotlin" />
-      </a>
-      <br>Debian
-    </td>
         <td align="center" width="96">
       <a href="#fahixa-tech" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" width="48" height="48" alt="Kotlin" />
