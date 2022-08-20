@@ -26,7 +26,7 @@
       <br>C
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#fahixa-tech">
         <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/ac443c139b1c5adef5f1a6f79bf8550f075b0c64/img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
