@@ -21,7 +21,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#fahixa-tech" >
-        <img src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png" width="48" height="48" alt="C" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="48" height="48" alt="C" />
       </a>
       <br>C
     </td>
@@ -54,6 +54,18 @@
         <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/ac443c139b1c5adef5f1a6f79bf8550f075b0c64/img/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
-
+    <td align="center" width="96">
+      <a href="#fahixa-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="48" height="48" alt="Kotlin" />
+      </a>
+      <br>Debian
+    </td>
+        <td align="center" width="96">
+      <a href="#fahixa-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" width="48" height="48" alt="Kotlin" />
+      </a>
+      <br>Ubuntu
+    </td>
+    
   </tr>
 </table>
