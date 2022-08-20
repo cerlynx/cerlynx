@@ -21,7 +21,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#fahixa-tech" >
-        <img src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png" width="48" height="48" alt="C" />
+        <img src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png" width="48" height="48" alt="C" />
       </a>
       <br>C
     </td>
