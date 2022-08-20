@@ -27,7 +27,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://www.pinclipart.com/picdir/middle/269-2691398_python-logo-clipart-transparent-background-png-download.png" width="48" height="48" alt="Python" />
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
@@ -36,6 +36,12 @@
         <img src="https://www.pngitem.com/pimgs/m/168-1680234_nodejs-logo-svg-hd-png-download.png" width="48" height="48" alt="NodeJS" />
       </a>
       <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
@@ -48,6 +54,6 @@
         <img src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
-    </td>
+
   </tr>
 </table>
