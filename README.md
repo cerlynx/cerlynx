@@ -33,7 +33,7 @@
     </td>
     <td align="center" width="96">
       <a href="#fahixa-tech">
-        <img src="https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png" width="48" height="48" alt="PHP" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
     </td>
