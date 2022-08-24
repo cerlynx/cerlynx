@@ -31,6 +31,12 @@
       </a>
       <br>Python
     </td>
+    <td align="center" width="96">
+      <a href="#fahixa-tech">
+        <img src="https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>
         <td align="center" width="96">
       <a href="#fahixa-tech">
         <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/ac443c139b1c5adef5f1a6f79bf8550f075b0c64/img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
@@ -56,7 +62,7 @@
       <br>MySQL
         <td align="center" width="96">
       <a href="#fahixa-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" width="48" height="48" alt="Kotlin" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" width="48" height="48" alt="Ubuntu" />
       </a>
       <br>Ubuntu
     </td>
