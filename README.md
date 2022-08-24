@@ -31,17 +31,17 @@
       </a>
       <br>Python
     </td>
+        <td align="center" width="96">
+      <a href="#fahixa-tech">
+        <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/ac443c139b1c5adef5f1a6f79bf8550f075b0c64/img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
     <td align="center" width="96">
       <a href="#fahixa-tech" >
         <img src="https://www.ruhidesain.com/wp-content/uploads/2017/10/nodejs-logo-e1497443346889.png" width="48" height="48" alt="NodeJS" />
       </a>
       <br>NodeJS
-    </td>
-    <td align="center" width="96">
-      <a href="#fahixa-tech">
-        <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/ac443c139b1c5adef5f1a6f79bf8550f075b0c64/img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#fahixa-tech" >
