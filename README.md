@@ -13,7 +13,7 @@
 
 <br>
 
-[![@fahixa's Holopin board](https://holopin.io/api/user/board?user=fhexl)](https://holopin.io/@fhexl)
+[![@fhexl's Holopin board](https://holopin.me/fhexl)](https://holopin.io/@fhexl)
 
 <h2 align="left" id="fahixa-tech">My Favorite Tech</h2>
 
