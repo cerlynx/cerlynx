@@ -13,6 +13,8 @@
 
 <br>
 
+[![@fahixa's Holopin board](https://holopin.io/api/user/board?user=fhexl)](https://holopin.io/@fhexl)
+
 <h2 align="left" id="fahixa-tech">My Favorite Tech</h2>
 
 > Tools, languages, and other things that I like.
