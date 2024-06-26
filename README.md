@@ -2,7 +2,7 @@
 <h2 align="left">I am a Computer Engineering Student at Telkom University</h2>
 
 <!-- About ME -->
-- :seedling: &nbsp;I’m currently learning **NodeJs**
+- :seedling: &nbsp;I’m currently learning **Security Analyst**
 - :speech_balloon: &nbsp;I like to talk about **Cyber Security** and **Programming Language**
 - :mailbox: &nbsp;Ask me anything on my **[issues_page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
